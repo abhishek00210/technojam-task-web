@@ -1,4 +1,4 @@
-# technojam-task-web
+# technojam-task-web-cp
 How did I approach your task?
 
 I was thinking about the design and actually i like red and black combination so i was thinking the website design by that colors so i was making design after few hrs i got a design which i implement
